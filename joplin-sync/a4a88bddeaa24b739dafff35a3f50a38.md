@@ -1,13 +1,13 @@
 id: a4a88bddeaa24b739dafff35a3f50a38
 parent_id: 
-item_type: 1
-item_id: 8efb85b1245548fea74718837eb7cfd2
-item_updated_time: 1623466989595
-title_diff: "@@ -0,0 +1,16 @@\\n+%E4%B8%96%E9%97%B4%E6%97%A0%E8%B5%96%E6%98%AF%E8%B1%AA%E5%AE%B6%EF%BC%8C%E5%A4%84%E5%A4%84%E6%9C%B1%E9%97%A8%E9%94%81%E5%A5%BD%E8%8A%B1%E3%80%82\\n"
-body_diff: "@@ -0,0 +1,34 @@\\n+%E4%B8%96%E9%97%B4%E6%97%A0%E8%B5%96%E6%98%AF%E8%B1%AA%E5%AE%B6%EF%BC%8C%E5%A4%84%E5%A4%84%E6%9C%B1%E9%97%A8%E9%94%81%E5%A5%BD%E8%8A%B1%E3%80%82%0A%E5%94%AF%E6%9C%89%E6%A2%A6%E9%AD%82%E9%9A%BE%E7%AE%A1%E6%9D%9F%EF%BC%8C%E4%BB%BB%E4%BB%96%E9%9A%8F%E6%84%8F%E5%88%B0%E5%A4%A9%E6%B6%AF%E3%80%82%0A\\n"
-metadata_diff: {"new":{"is_shared":0,"application_data":"","source_application":"net.cozic.joplin-mobile","source":"joplin","is_todo":0,"markup_language":1,"order":1623466982167,"latitude":"0.00000000","longitude":"0.00000000","todo_completed":0,"altitude":"0.0000","parent_id":"ad06246fb1354e2788e57651cc55db6d","source_url":"","id":"8efb85b1245548fea74718837eb7cfd2","todo_due":0,"author":""},"deleted":[]}
-encryption_cipher_text: 
-encryption_applied: 0
+item_type: 
+item_id: 
+item_updated_time: 
+title_diff: 
+body_diff: 
+metadata_diff: 
+encryption_cipher_text: JED01000022053250fa724f114a769968a0f9109bb0a20009fc{"iv":"Xlfs0P2Ey750GZ4lTjqAMQ==","v":1,"iter":101,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"NUmFyQbixHI=","ct":"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"}
+encryption_applied: 1
 updated_time: 2021-06-12T03:05:24.966Z
-created_time: 2021-06-12T03:05:24.966Z
+created_time: 
 type_: 13

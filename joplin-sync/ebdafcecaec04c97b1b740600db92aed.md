@@ -1,32 +1,24 @@
-芝桂虽芳，难以饵鱼；尸位素餐，难以成居。
-
-芝桂虽芳，难以饵鱼；尸位素餐，难以成居。
-磁石引铁，于金不连；大朝举士，愚不闻焉。
-抱璧途乞，无为贵宝；履仁遘祸，无为贵道
-鸳雏远害，不羞卑栖；灵虬避难，不耻污泥。
-都蔗虽甘，杖之必折；巧言虽美、用之必灭。
-
 id: ebdafcecaec04c97b1b740600db92aed
 parent_id: ad06246fb1354e2788e57651cc55db6d
-created_time: 2021-06-12T03:05:26.732Z
+created_time: 
 updated_time: 2021-06-12T03:05:30.465Z
-is_conflict: 0
-latitude: 0.00000000
-longitude: 0.00000000
-altitude: 0.0000
+is_conflict: 
+latitude: 
+longitude: 
+altitude: 
 author: 
 source_url: 
-is_todo: 0
-todo_due: 0
-todo_completed: 0
-source: joplin
-source_application: net.cozic.joplin-mobile
+is_todo: 
+todo_due: 
+todo_completed: 
+source: 
+source_application: 
 application_data: 
-order: 1623467126731
-user_created_time: 2021-06-12T03:05:26.732Z
-user_updated_time: 2021-06-12T03:05:30.465Z
-encryption_cipher_text: 
-encryption_applied: 0
-markup_language: 1
-is_shared: 0
+order: 
+user_created_time: 
+user_updated_time: 
+encryption_cipher_text: JED0100002205d3bda74203334a30b4295c19617bd66a000838{"iv":"/7DCN9cm/YBwi4Wh4Op23A==","v":1,"iter":101,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"tUy5hzEdUpc=","ct":"jIWnpPIRSsoS3BxnUFcz1pWYAkS99IkEHtAt7uJn4R85/0CKzIxhNo8ZcR1ZgNDXm7QB0u9F09NqQmByr9CYf6WkV3UbWxEfoLb81XcC2Rf1eqcT16aDKTp4oWGwmiOlWAgeneaKZ+QH4JNmKtPr9h6z15Hf/5zjyj47HgTYZuRRkqsW8e1HUW8j5RAFXHSFXxlNMWMVB7+aIL8qUnZ4WzuB9vdhkOLYDsom+NnEzm86IriMzonhySRu2Gyu54QauD/OJqoyDi/KET0Rwk1ucFMy6TNu+pxLeRQy594tQ8B1tsq59MO/3DswkzOJJvep8yXmP1xDq9T48x7BNbEm98nb1URoj/qhLzrT4LnDxSVrEBuuSCZNeJ82gNu7UOTGZje9hA8zf3qnlYQ9qS9+gVDaAGVT7lzpj/5aP8RvpZDmumpRCDgJtQyBzd3GZpolwFn0WxamGnSgPByMg8/evKzYxRQnDGsrsSAGW5PELrkvgx66w1hkTKxJdi184nLQLSlZCGaF/HFUBeAaAN5S1jssvO1szdJ5TUOM8S/pE3h2nrs4fPE7O1Bh7xQR6Iik1d/toLXPR7zrYtXkhP6FeuHATwS8OClC4goLt7jQPQHAcLJ5dbQ8Mq0MqKpnAdKNRxeKZJBx/pw7P75eXZ4v/BezurfRDGGvk7Pyz8Sxa/yoyrOc2a7/xdLGz9a7TU9MbywUEWl/7RIkm+q1X4I/CRsYgrOLS2D+eLQmb7bsI7FIaeJT+EJWhjjvn9Cj2LKOZky9au3Zr4iqBx7l2e37oEbfbTd61REIIr4ak69EGRh/oT7agcJAuG4CPo1Yp+RrfjnIwBoOvd4jUvUba6NLN3k4i3QpwtIU0p/eRqyH3smmbhUKlYtIB8UuHIJD0BNq4WnybnkalEQbGp6SuS7RtgqcSMCUVmvnfYG0c3vILDP//nF2yedhgb7s62cfZTDgXw23R6lCD/SeXRs944ql/Km6UKQJDcrPM561PshUJpMiiK4XUm2sUFEwbp42Ny77BpSTUvQnPwhT7j67HskoHu+5FSerNrL5nit7mvzc0woXzCkL2qSVOTk0VjISMjqwbcyRUqge3ypBfbtuB2uo3uRWRSHnMvMLyKN7KNg7D+qohEs4Px4QnXjQQ5t4zpO+EFyi+BvmQMqXv/YENF3mxMXJAp1zLm3wQdj/aXBjkVSpglkmynQRDbXNtPtyWvbtGtg+fUqZmJf9gr7Ekl/lXhlz0Ko5nP6B2wC7K/9qC7lr9yaFw+1fD6M+CMdK5/XPcCYKAnUSvaKiu0fx8iPWiXF/Nct3vw+cn1GA4R8JOBOrrDe+wj6DBcPx2y+O7VKgzJ0KjUHwak5oNJ1tf/9OcawubmTji82OaThroaoc2eOoCUeFKoiodHvLR/x7ICy3JTpWK3UJDtYR3fkZV5eS4fvqRIcBAZp4ZP0+kMaJUf9h9BZVKRQ8ujzt3lDwsVleM8EFXGhkXXGWcMsKCQmrwPGG+5voHs+O6RVC2NwMvJo0K2FlfxtqmApxp1mKfb9ZKM0I0hQd/YXDoXJZ30Aj+GSfTg+pzx+xVbTPcw5XtrQ/KU+8QPi84VkCOwm6EsX2puiYQLvwl1gemVrFvhOXanYOBuOHjCPiozWdBVb8NdXls5wwCCkWniMu3Hb8y1L3SsFLK46xfqo+afdQazQTrU17z7K20hiGq7cwlcs5yG0qoO+L44G5RnxNkwhRp/XaZg8S+1p3kpTifWJeydaTBEB9ZLRQnnGUuXZlxfpYT6cOBc7ytkYfiQe5EOeyyUYjoweGE7Ta2kPod5lPbNxEZ82MDW1VSaRawZtKk8j0Yi96vbRQY3Ue06kaDEKRyBE9m3lmhLli8fuMYejghmYR7SZC9meTWits4Cc/hyHcCJhaSZd7QuJyAR1dNfzaWhA6eZafSWgsodcKrypFQQg85JgB1ci9PUy1abXgEB4lllxrsJc="}
+encryption_applied: 1
+markup_language: 
+is_shared: 
 type_: 1

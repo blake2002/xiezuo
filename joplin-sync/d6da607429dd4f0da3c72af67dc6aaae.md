@@ -1,13 +1,13 @@
 id: d6da607429dd4f0da3c72af67dc6aaae
 parent_id: 
-item_type: 1
-item_id: f4b012e4e084410990f68c211fd853da
-item_updated_time: 1621346708908
+item_type: 
+item_id: 
+item_updated_time: 
 title_diff: 
 body_diff: 
-metadata_diff: {"new":{"id":"f4b012e4e084410990f68c211fd853da","parent_id":"599f2fa091a74c6f9f47ae83bf938154","latitude":"31.04490000","longitude":"121.40120000","altitude":"0.0000","author":"","source_url":"","is_todo":0,"todo_due":0,"todo_completed":0,"source":"joplin-desktop","source_application":"net.cozic.joplin-desktop","application_data":"","order":0,"markup_language":1,"is_shared":0},"deleted":[]}
-encryption_cipher_text: 
-encryption_applied: 0
+metadata_diff: 
+encryption_cipher_text: JED01000022053250fa724f114a769968a0f9109bb0a20005b0{"iv":"kWke9awQ5BhEOQUpotYS/g==","v":1,"iter":101,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"NUmFyQbixHI=","ct":"RXuAHFkBIFGDwQHAXXXBqqyTkwEQZfcFRqxWsUVatXdmLOFkb42v+1KsfUd70ueEjcPhgRNgDe5dH9KRT4GoY+s2aq+eqaUIkrWUWsgpu/mtQD55lzQwzjTa4Mh8OkTh0ptLR4cprAyBD4gxJZGwP1WdcrdUHHN6IaFg7Ix9/KXmxMJB3B6miBMAs59eMMD4hqjs5a2xtJkLYD/tO6RcIZsHBUToBS5oHhzF/4NFb2U4HE1M3uTzUwir9OfbNbHBjTHgvL25AXYbp/GQJ6kzA8FFP2Q6gYbWJrJ4RTiw3ihg1sehOqsEBBYUmvDc8nYBPDEf6bRuS9o42kToclPKveMmZobiTAjiKXTi6yiFyFvqU0nArvwfTrmpAniY3zgzjMPiowA+s1Xkr8WekJsZP9LMYjrO5x2LUJK3YnnllrQAW4e8yDMtoskg2vsyfHoBf6J0J0l9kkzunzm7F8Juh4vy1J7tnMUkahv7MyZ+c9YgOWKDXdc1mnoP5+BtHt10LkDqqdyv4sJ8DUO57pKErTNUwyb3XCZxKfORwznspuBIdv38WnwHy8ecw5qr2a2/vp4Y0QWlyHbdkiZMthDBFccEi5BoL/M34MofZq58Nowi3D7a8Li9LLRgz57rr1tD7Wp5bdda0hM+JdDcvLkRr+1Rxn+E16PneULkP7eLuMes63TEhpTUXmSOqRC+ZBueywE09OlkSWESqXMKpHs3a6h0/hYrRC2MqT8RQ/4MfbIOlNbyAklyNVFat8rDIchepO/zZWwMTyXTTVhqlCj7DtydF60O3sa/z4y7PsVYNll4aWo1E6J2OEwihpmuxhRSIPfKiRm03+kDL1ZuYZ+hzrnufMt9Zd19mMZXrlugv6SOmZw5DMtVmxTYumAmZL5EfUDU/oA94i8p+nmpSX905IM6b19KeCoM/2yklZWnhWXf/fE1xqpOWmm+k5nJviFRRrzniek7kQ/Qs1aj6oRzafp80rHImzYwCsiTlECEryVFBHfIaniOfvmKk3kd0Hg58g6jOp2iqpdeV1Aghe9OwfUHsMd5pO4b6dGyIQMa3DQ7ohUrhXbIzgjsu/5ZizoeQg4nESBUN5ZOrmRSK7sWWR2GMnR1137KQ9BByYPSAjhyr0oDsPyFRnIR0CVZCNYo3dOHKgWcSxhKIw4uGAA0P8GMSW0Zhjg54e7xt8K5bIUcjEyJXtgvAZPfOynM8f5J1nyrVekni4dtqGj2yqB+w6lolUKUTQmBOHN+JUiu+3bgoCtFgzlmkw1iorrV5Ttagyvj4G54iISQYGM4ERxaBnOQqkcrfizvj9QKU8k="}
+encryption_applied: 1
 updated_time: 2021-05-18T14:07:57.560Z
-created_time: 2021-05-18T14:07:57.560Z
+created_time: 
 type_: 13
