@@ -2,13 +2,22 @@
 	"version": 3,
 	"e2ee": {
 		"value": false,
-		"updatedTime": 1631429711080
+		"updatedTime": 1631431683427
 	},
 	"activeMasterKeyId": {
-		"value": "3250fa724f114a769968a0f9109bb0a2",
-		"updatedTime": 0
+		"value": "f59a24a0303140968ba4896a695ceb22",
+		"updatedTime": 1631431676960
 	},
 	"masterKeys": [
+		{
+			"checksum": "",
+			"encryption_method": 4,
+			"content": "{\"iv\":\"+UzkkdjZrFWSF1iav6O3jg==\",\"v\":1,\"iter\":10000,\"ks\":256,\"ts\":64,\"mode\":\"ccm\",\"adata\":\"\",\"cipher\":\"aes\",\"salt\":\"L470wxMw4kg=\",\"ct\":\"Vd7so2FuXhNJ4XFmnn5psLrH2f+9kVK9jz0t4b3+thjzcdkLmSPgYwB60VGrzSSgOn0JBo7DweyGnco1N9cd3WXL1wkwtM/+YG0JRw9eDdGKj2Ua4AEeu3ttjIffGRKtGhfru6owE2HeW1QXiB6fd49fKRTF/IOUtRGVoiFY+/IzVlKwhrMRPLCTmPbHawM64YFIYAkvB/q+LXI9lAUDY3/kgrDXvtS1s3nk7uRZusy7s6SnWkknuVk4fAcuoz2Jgz/Lb6jFzImwr6XBznuLr0BbIZgIPGfqYapwDb9FlcDuw21p1buWt9PTaShuvRiylBEKLxQcYcVtKyjXL7ATTzB8rULlKkCB15KhuTRsZb8mKw4p8cUkyBxYZBNqGbkfl+oDo4YuqJXzNw5UwZofn7wxfyfNLA29EF3GHZTzJQTSAX2jtLGk2boybmmEscKA4EFM7CDxZ0h7+B9u49UaiUKh5C04nQmMDjoyHa0tYn2fVjkkaci0zm/ymm+77xc6bgBQs6iTYQFp8h/hUzW72kCIriDV/eTrXvXt7EAEbRngpibuLbSwS38lGCfQc967me5pfPyoNM70D3l+bkViH7Kf7ryhzzutXwZxVYQu0wFnjvM6is8OuL6QA9p8CyHuVNgEGQk9S+C+x0Cz73LrXzU57DGEvmgJbmpkcdBrz6AG4T4Ieik+bg==\"}",
+			"created_time": 1631431676926,
+			"updated_time": 1631431676926,
+			"source_application": "net.cozic.joplin-desktop",
+			"id": "f59a24a0303140968ba4896a695ceb22"
+		},
 		{
 			"id": "3250fa724f114a769968a0f9109bb0a2",
 			"created_time": 1624771091931,
