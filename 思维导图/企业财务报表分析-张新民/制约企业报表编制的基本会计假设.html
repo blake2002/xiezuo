@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>Markmap</title>
+<style>
+* {
+  margin: 0;
+  padding: 0;
+}
+#mindmap {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+}
+</style>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.1.5/dist/style.min.css">
+</head>
+<body>
+<svg id="mindmap"></svg>
+<script src="https://cdn.jsdelivr.net/npm/d3@6.6.0"></script><script src="https://cdn.jsdelivr.net/npm/markmap-view@0.2.3"></script><script src="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.1.5/dist/index.umd.min.js"></script><script>(r => {
+                setTimeout(r);
+              })(() => {
+  const {
+    markmap,
+    mm
+  } = window;
+  const toolbar = new markmap.Toolbar();
+  toolbar.attach(mm);
+  const el = toolbar.render();
+  el.setAttribute('style', 'position:absolute;bottom:20px;right:20px');
+  document.body.append(el);
+})</script><script>((getMarkmap, getOptions, data) => {
+        const {
+          Markmap
+        } = getMarkmap();
+        window.mm = Markmap.create('svg#mindmap', getOptions == null ? void 0 : getOptions(), data);
+      })(() => window.markmap,null,{"t":"heading","d":1,"p":{"lines":[0,1]},"v":"第三节 制约企业报表编制的基本会计假设","c":[{"t":"heading","d":2,"p":{"lines":[2,3]},"v":"一、会计主体假设","c":[{"t":"list_item","d":4,"p":{"lines":[4,5],"index":1},"v":"1. 会计主体 （accounting entity）假设","c":[{"t":"list_item","d":6,"p":{"lines":[6,7]},"v":"定义 是指每个企业的经济业务必须与企业的所有者及其他经济组织分开"},{"t":"list_item","d":6,"p":{"lines":[7,8]},"v":"《企业会计准则-基本准则》中的表述","c":[{"t":"list_item","d":8,"p":{"lines":[8,9]},"v":"企业应当对其本身发生的交易或者事项进行确认、计量和报告"}]},{"t":"list_item","d":6,"p":{"lines":[9,10]},"v":"作用","c":[{"t":"list_item","d":8,"p":{"lines":[10,11],"index":1},"v":"1. 限定了企业会计活的的空间范围"},{"t":"list_item","d":8,"p":{"lines":[11,12],"index":2},"v":"2. 对会计概念、会计行为、会计法律建设及报表编制等方面有重大影响"}]}]},{"t":"list_item","d":4,"p":{"lines":[13,14],"index":2},"v":"2. 持续经营（going concern）假设","c":[{"t":"list_item","d":6,"p":{"lines":[15,16]},"v":"含义 是企业会计方法的选择应以企业在可预见的未来将以它实现的形式并按既定的目标持续不断的经营下去为假设。也就是说，企业在可预见的将来不会面临破产和清算。"},{"t":"list_item","d":6,"p":{"lines":[16,17]},"v":"《企业会计准则-基本准则》表述：企业会计确认、计量和报告应当以持续经营为前提。"},{"t":"list_item","d":6,"p":{"lines":[17,18]},"v":"为企业在编制报表时会计方法的选择奠定了基础，主要表现：","c":[{"t":"list_item","d":8,"p":{"lines":[18,19],"index":1},"v":"1. 一般情况下，支持以其取得时的历史成本计价，而不安其立即进入解散、清算状态的现行市价计价"},{"t":"list_item","d":8,"p":{"lines":[19,20],"index":2},"v":"2. 对长期资产摊销（如固定资产折旧，无形资产摊销等）问题的处理，均以企业在折旧年限或摊销期内会持续经营为假设"},{"t":"list_item","d":8,"p":{"lines":[20,21],"index":3},"v":"3. 企业偿债能力的评估与分析也是基因企业在会计报告期后仍能持续经营的假设"},{"t":"list_item","d":8,"p":{"lines":[21,22],"index":4},"v":"4. 正是由于考虑到持续经营假设才有了会计上除固定资产折旧与无形资产摊销以外其他权责发生制方法的选择","c":[{"t":"list_item","d":10,"p":{"lines":[22,23]},"v":"坏账处理的备抵法"},{"t":"list_item","d":10,"p":{"lines":[23,24]},"v":"销售收入的确认等"}]},{"t":"list_item","d":8,"p":{"lines":[24,25],"index":5},"v":"5. 还要求当传统方法可能危及企业的持续经营时，企业的会计活动能选择对企业持续经营有利的方法 如","c":[{"t":"list_item","d":10,"p":{"lines":[25,26]},"v":"在通胀下，简单的价值补偿不能维持其实物替换的持续经营时，力求在会计方法上消除，通胀的不利影响"},{"t":"list_item","d":10,"p":{"lines":[26,27]},"v":"通胀下，存货计价采用后进先出法比较有利于持续经营等"}]}]}]},{"t":"list_item","d":4,"p":{"lines":[28,29],"index":3},"v":"3. 会计分期（accounting periods）假设","c":[{"t":"list_item","d":6,"p":{"lines":[30,31]},"v":"含义","c":[{"t":"list_item","d":8,"p":{"lines":[32,33]},"v":"企业在持续经营过程中所发生的各种经济业务可以归属于人为划分的各个期间，这种因会计需要而划分的期间称为会计期间"}]},{"t":"list_item","d":6,"p":{"lines":[34,35]},"v":"划分方式","c":[{"t":"list_item","d":8,"p":{"lines":[36,37]},"v":"月"},{"t":"list_item","d":8,"p":{"lines":[38,39]},"v":"季"},{"t":"list_item","d":8,"p":{"lines":[40,41]},"v":"年"}]},{"t":"list_item","d":6,"p":{"lines":[42,43]},"v":"《企业会计准则-基本准则》表述","c":[{"t":"list_item","d":8,"p":{"lines":[44,45]},"v":"企业应当划分会计期间，分期结算账日和编制财务会计报告"}]},{"t":"list_item","d":6,"p":{"lines":[46,47]},"v":"会计年度","c":[{"t":"list_item","d":8,"p":{"lines":[48,49]},"v":"以年度划分的会计期间，可以用日历年度一致，也可不一致"},{"t":"list_item","d":8,"p":{"lines":[50,51]},"v":"《企业会计准则-基本准则》规定 会计期间分为年度和中期","c":[{"t":"list_item","d":10,"p":{"lines":[52,53]},"v":"中期 指短衣一个完整会计年度的报告期间"}]}]}]},{"t":"list_item","d":4,"p":{"lines":[54,55],"index":4},"v":"4. 货币计量（monetary measurement）假设","c":[{"t":"list_item","d":6,"p":{"lines":[56,57]},"v":"含义","c":[{"t":"list_item","d":8,"p":{"lines":[58,59]},"v":"只有能用货币反映的经济活动，才能纳入会计系统"},{"t":"list_item","d":8,"p":{"lines":[60,61]},"v":"第一 会计所计量和反映的，只是企业能用货币计量的方面"},{"t":"list_item","d":8,"p":{"lines":[62,63]},"v":"第二不同实物形态的资产需用货币作为统一计量单位，才能据以进行会计处理，及时企业财务状况"},{"t":"list_item","d":8,"p":{"lines":[64,65]},"v":"使得去企业对大量复杂的经济业务进行统一汇总、计量成为可能"}]}]}]}]})</script>
+</body>
+</html>
