@@ -1,13 +1,13 @@
 id: 6af47fd5d2e1446aa86ecdf997febcba
 parent_id: 0aa92cafd47843498a6cf38931f05caa
-item_type: 1
-item_id: 024e47d3973a48fdb1ad652afaf4103a
-item_updated_time: 1645623101113
-title_diff: "[]"
-body_diff: "[{\"diffs\":[[0,\"东利用企业的战略\"],[1,\"\\\n           \\\n           + 从财务分析角度说，如果控股股东控制企业的战略与全体股东为企业确立的战略不一致，一定会在财务报表中体现出来\\\n           \\\n           + 在资产负债表中典型表现为以下几个方面\\\n             \\\n             + 1. 资产中存在明显非经营性占用。\\\n                  \\\n                  + 最常见的情形是，企业“其他应收款”这项债权会显著高于正常水平。\\\n                  \\\n                  + 企业以预付款项方式向关联方提供资金的情况下，企业的预付款项债权也会显著高于常规采购所需的水平。\\\n               \\\n               2. \"],[0,\"\\\n\\\n#### 二\"]],\"start1\":37578,\"start2\":37578,\"length1\":16,\"length2\":378}]"
-metadata_diff: {"new":{},"deleted":[]}
-encryption_cipher_text: 
-encryption_applied: 0
+item_type: 
+item_id: 
+item_updated_time: 
+title_diff: 
+body_diff: 
+metadata_diff: 
+encryption_cipher_text: JED0100002205f59a24a0303140968ba4896a695ceb22000d50{"iv":"nvAf4uTht0e/VyF+PjgqIA==","v":1,"iter":101,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"+UbLI5xiJAk=","ct":"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"}
+encryption_applied: 1
 updated_time: 2022-02-23T13:40:27.944Z
-created_time: 2022-02-23T13:40:27.944Z
+created_time: 
 type_: 13

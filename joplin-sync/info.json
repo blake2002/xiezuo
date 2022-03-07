@@ -1,8 +1,8 @@
 {
 	"version": 3,
 	"e2ee": {
-		"value": false,
-		"updatedTime": 1631431683427
+		"value": true,
+		"updatedTime": 1646232594449
 	},
 	"activeMasterKeyId": {
 		"value": "f59a24a0303140968ba4896a695ceb22",
