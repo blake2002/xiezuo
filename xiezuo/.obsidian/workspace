@@ -1,0 +1,116 @@
+{
+  "main": {
+    "id": "5eb62e821838982e",
+    "type": "split",
+    "children": [
+      {
+        "id": "40d32cac2c6f634e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "投资/企业财务报表分析-张新民/企业财务报表分析-张新民-1.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6e6ccad3896f1464",
+    "type": "split",
+    "children": [
+      {
+        "id": "f028139cf7e17264",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a96b56e431d9a69a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "44cebf03041c7d17",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 341
+  },
+  "right": {
+    "id": "690afc198a666e2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "42e84fb5f941575f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e1fcaea3bd1f580",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "投资/企业财务报表分析-张新民/企业财务报表分析-张新民-1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "2bca11f79077373d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "81ba0ad01d11b47f",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "40d32cac2c6f634e",
+  "lastOpenFiles": [
+    "投资/企业财务报表分析-张新民/企业财务报表分析-张新民-1.md",
+    "投资/企业财务报表分析-张新民/企业财务报表分析-张新民.md",
+    "投资/企业财务报表分析-张新民/第一章 企业财务报表分析概论.md",
+    "投资/企业财务报表分析-张新民/第二章 资产质量分析.md",
+    "IT笔记/ML/python 深度学习.md",
+    "Day Planners/Day Planner-20220422.md",
+    "未命名/未命名.md"
+  ]
+}
