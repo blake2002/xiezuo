@@ -1,0 +1,42 @@
+{
+	"$schema": "https://joplinapp.org/schema/settings.json",
+	"locale": "zh_CN",
+	"api.token": "0eb79023ca4b96493f0521ba076d4191bec109ea9ba43f2031d83985bfafb6830f655fbc601abca33ca3b4e62482ffe1f35bdd49f15dec80db8bb394e1239862",
+	"markdown.plugin.softbreaks": false,
+	"markdown.plugin.typographer": false,
+	"spellChecker.language": "en-US",
+	"ui.layout": {
+		"key": "root",
+		"children": [
+			{
+				"key": "sideBar",
+				"width": 194,
+				"visible": true
+			},
+			{
+				"key": "noteList",
+				"width": 245,
+				"visible": true
+			},
+			{
+				"key": "editor",
+				"visible": true
+			}
+		],
+		"visible": true
+	},
+	"noteVisiblePanes": [
+		"editor",
+		"viewer"
+	],
+	"theme": 22,
+	"sync.target": 2,
+	"sync.2.path": "E:\\原创\\github-xiezuo\\joplin-sync",
+	"sync.wipeOutFailSafe": false,
+	"spellChecker.enabled": false,
+	"editor.codeView": true,
+	"layoutButtonSequence": 0,
+	"style.editor.contentMaxWidth": 600,
+	"showTrayIcon": false,
+	"notes.sortOrder.field": "order"
+}

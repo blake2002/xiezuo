@@ -1,0 +1,17 @@
+{
+  "site": {
+    "themeName": "Default",
+    "feedEnabled": true,
+    "feedLength": 10,
+    "custom": {
+      "Default": {
+        "siteName": "blake2002-note"
+      }
+    }
+  },
+  "github": {
+    "userName": "blake2002",
+    "email": "blake2002@163.com",
+    "repositoryName": "xiezuo"
+  }
+}
