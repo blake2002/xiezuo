@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "40d32cac2c6f634e",
+        "id": "bb8b3ac06bc10512",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Day Planners/Day Planner-20220514.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -39,17 +43,25 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "92e6ade195eb8865",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 341
+    "width": 266
   },
   "right": {
     "id": "690afc198a666e2f",
@@ -65,12 +77,13 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Day Planners/Day Planner-20220514.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
@@ -90,25 +103,47 @@
               "type": "reminder-list",
               "state": {}
             }
+          },
+          {
+            "id": "ad165d73714c9f45",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Day Planners/Day Planner-20220514.md"
+              }
+            }
+          },
+          {
+            "id": "6e00291729f9e08a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Day Planners/Day Planner-20220514.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 265
   },
-  "active": "40d32cac2c6f634e",
+  "active": "bb8b3ac06bc10512",
   "lastOpenFiles": [
-    "jianshu-bak/中医摘要/中医摘要-妇科病（常识）2.md",
-    "中医笔记/干姜 可以将 舌中间有缝隙 合并上.md",
-    "乐理/五线谱休止符.md",
-    "乐理/五线谱8分音符连一起的情况.md",
-    "乐理/五线谱,第三线以上符干向下,以下符干向上.md",
-    "乐理/三连音.md",
+    "Day Planners/Day Planner-20220514.md",
+    "delete.md",
+    "作文笔记/文章写作技巧比较.md",
+    "2022-05-15.md",
+    "未命名.md",
+    "IT笔记/ML/python 深度学习.md",
     "乐理/切分音.md",
-    "乐理/基础乐理-变化音.md",
-    "乐理/复拍子.md",
-    "乐理/单拍子的强弱_.md"
+    "乐理/不完全音符.md",
+    "投资/企业财务报表分析-张新民/第三章 资本结构质量分析_.md",
+    "投资/企业财务报表分析-张新民/第二章 资产质量分析.md"
   ]
 }

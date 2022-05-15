@@ -1,0 +1,115 @@
+{
+  "workspaces": {
+    "日常": {
+      "main": {
+        "id": "5eb62e821838982e",
+        "type": "split",
+        "children": [
+          {
+            "id": "7bef604960e9bfcc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "6e6ccad3896f1464",
+        "type": "split",
+        "children": [
+          {
+            "id": "f028139cf7e17264",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a96b56e431d9a69a",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "44cebf03041c7d17",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 266
+      },
+      "right": {
+        "id": "690afc198a666e2f",
+        "type": "split",
+        "children": [
+          {
+            "id": "42e84fb5f941575f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7e1fcaea3bd1f580",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": true,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "2bca11f79077373d",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "81ba0ad01d11b47f",
+                "type": "leaf",
+                "state": {
+                  "type": "reminder-list",
+                  "state": {}
+                }
+              },
+              {
+                "id": "ad165d73714c9f45",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "active": "7bef604960e9bfcc"
+    }
+  },
+  "active": "日常"
+}
